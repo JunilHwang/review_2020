@@ -33,7 +33,7 @@
 - 리뷰는 화/목요일 혹은 수/금요일에 수행합니다.
 - 1회의 코드 리뷰시 전체 시간은 2시간을 권장합니다.
 - 웹 분야는 프론트엔드, 백엔드를 번갈아 가며 개발합니다. 따라서, 웹 분야 리뷰어는 2주마다 리뷰를 수행합니다. 반면, iOS 분야 리뷰어는 매주 리뷰를 수행합니다.
-- 리뷰할 코드의 수준이 궁금하다면 [작년 산출물 예시](https://github.com/connectfoundation/review_2020/tree/master/review_practice)를 참고해주세요.
+- 리뷰할 코드의 수준이 궁금하다면 [작년 산출물 예시](https://github.com/connectfoundation/review_2020/tree/master/review_practice)를 참고해주세요. (JavaScript 기준)
 
 `리뷰어 정기 회고 @zoom`
 - 매주 월요일 저녁, 한 주간의 리뷰 활동을 다 같이 회고해봅니다.
@@ -77,10 +77,11 @@ AutoLayout, CollectionView 활용, MVC/Delegate/Observer 패턴, 네트워크 �
 
 ### 어떻게 지원할 수 있나요?!
 1. 다음의 링크로 이동하여 지원서를 작성해주세요. [지원서 작성](http://naver.me/5Lf85crc)
-2. 다음의 코드에 직접 리뷰 의견을 남깁니다. [코드 보러 가기](https://github.com/connectfoundation/review_2020/tree/master/review_practice)
+2. 다음의 코드에 직접 리뷰 의견을 남깁니다. [Web](https://github.com/connectfoundation/review_2020/tree/master/review_practice) / [iOS #1](https://github.com/boostcamp-3rd/iOS-teamA1) / [iOS #2](https://github.com/boostcamp-3rd/iOS-teamB1)
 
 `리뷰 작성시 유의 사항`
- - 작성한 리뷰는 master 브랜치로 Pull Request 합니다.
+ - iOS는 두 개의 코드 중 원하는 하나를 선택하여 리뷰를 작성합니다.
+ - 작성한 리뷰는 `master` 브랜치로 Pull Request 합니다.
  - PR 로그가 없는 경우 미지원으로 간주합니다.
 
 ### 여러분의 많은 관심과 성원 부탁드립니다. 감사합니다.
